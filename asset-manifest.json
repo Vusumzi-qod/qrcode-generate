@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qrcode-generate/static/css/main.e6c13ad2.css",
+    "main.js": "/qrcode-generate/static/js/main.079902a5.js",
+    "static/js/787.541f8045.chunk.js": "/qrcode-generate/static/js/787.541f8045.chunk.js",
+    "index.html": "/qrcode-generate/index.html",
+    "main.e6c13ad2.css.map": "/qrcode-generate/static/css/main.e6c13ad2.css.map",
+    "main.079902a5.js.map": "/qrcode-generate/static/js/main.079902a5.js.map",
+    "787.541f8045.chunk.js.map": "/qrcode-generate/static/js/787.541f8045.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.079902a5.js"
+  ]
+}
